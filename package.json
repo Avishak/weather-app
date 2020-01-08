@@ -12,7 +12,9 @@
   "dependencies": {
     "express": "^4.16.4",
     "hbs": "^4.0.6",
+    "ls": "^0.2.1",
     "request": "^2.88.0",
+    "ssh-keygen": "^0.4.2",
     "string-length": "^3.1.0"
   },
   "devDependencies": {
